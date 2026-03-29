@@ -1,0 +1,11 @@
+# Fichier de configuration sensible — NE PAS PUSHER
+.env
+
+# Données locales — inutiles sur Railway
+alertix_pending.json
+alertix_history.json
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
